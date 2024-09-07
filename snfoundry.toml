@@ -1,0 +1,7 @@
+[sncast.default]
+account = "default"
+url = "http://127.0.0.1:5050/"
+[sncast.user]
+account = "user"
+accounts-file = "/Users/ethan/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+url = "http://127.0.0.1:5050/"
