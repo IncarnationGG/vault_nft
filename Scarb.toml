@@ -18,3 +18,5 @@ allowed-libfuncs-list.name = "experimental"
 
 [scripts]
 test = "snforge test"
+
+[lib]
